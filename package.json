@@ -1,0 +1,13 @@
+{
+  "name": "fx-version",
+  "version": "1.0.0",
+  "description": "The FX Version api",
+  "repository": "git@github.com:fxpm/fx-version.git",
+  "author": "Scott Plunkett <scottplunkett15@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "micro": "^9.3.4"
+  }
+}
